@@ -1,7 +1,7 @@
 - 👋 Hi, My name is  Ehtesham Ali Khan and I live in Pakistan @EhteshamAK
-- 👀 I’m working as a Banker 
-- 🌱 I’m currently learning Data science with Python, SQL, Excel, Power Bi, Tableau to transition my career.
-- 💞️ I’m looking to collaborate on Machine Learning Projects.
+- 👀 I’m working as a Data Analyst 
+- 🌱 I’ve strong expertise  with Python, SQL, Excel, Power Bi and Tableau.
+- 💞️ I’m looking to collaborate on Data Analysis Projects.
 - 📫 ehtesham5144@gmail.com
 
 <!---

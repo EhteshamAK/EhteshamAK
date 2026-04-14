@@ -1,6 +1,5 @@
 - 👋 Hi, My name is  Ehtesham Ali Khan @EhteshamAK 
-- 🌱 I’ve strong expertise  with Python, SQL, Excel, Power Bi and Tableau.
-- 💞️ I’m looking to collaborate on Data Analysis Projects.
+- 🌱 I’ve strong expertise  with Python, SQL, Excel, Power Bi and Tableau..
 - 📫 ehtesham5144@gmail.com
 
 <!---
